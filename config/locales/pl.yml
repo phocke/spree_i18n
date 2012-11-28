@@ -81,12 +81,12 @@ pl:
         name: Nazwa
       spree/product: 
         available_on: "Dostępny Od"
-        cost_price: "Cost Price"
+        cost_price: "Koszt"
         description: Opis
         master_price: "Master Price"
         name: Nazwa
         on_demand: "On Demand"
-        on_hand: "On Hand"
+        on_hand: "Ilość dostępnych"
         shipping_category: "Kategoria Dostawy"
         tax_category: "Kategoria Podatkowa"
       spree/promotion: 
